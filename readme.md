@@ -67,6 +67,10 @@ java -version
 ```
 
 ### Ant compile, run
+```
 brew install ant
+
 ant compile
+
 ant run
+```
